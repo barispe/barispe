@@ -14,7 +14,7 @@
 
 - 👯 I’m looking forward to collaborate on open source projects.
 
-- 👨‍💻 You can access all of my open-source projects here on **[GitHub](https://github.com/barispe)**
+- 👨‍💻 You can access all of my open-source projects here on **[GitHub](https://github.com/barispe?tab=repositories)**
 
 - 💪🏼 Currently improving myself on Python and JavaScript.
 
