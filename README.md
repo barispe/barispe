@@ -39,23 +39,7 @@ graph LR
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barispe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barispe&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🤝 Open Source Contributions
-
-*   **[first-contributions/first-contributions](https://github.com/firstcontributions/first-contributions)**: Added to the global contributors list.
-*   **[Roshanjossey/code-contributions](https://github.com/Roshanjossey/code-contributions)**: Created a personalized contributor card with HTML/CSS.
-
----
-
-## 📮 Connect with Me
+##  Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/barisperveroglu/">
