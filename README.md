@@ -1,28 +1,22 @@
 ﻿<p align="center">
-  <h1 align="center">Hi, I'm Barış </h1>
+  <h1 align="center">Hi, I'm Barış 👋</h1>
   <h3 align="center">Senior Test Automation Engineer | Java + API Specialist | CI/CD + AI-Enhanced QA</h3>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=barispe&theme=tokyonight&no-frame=true&column=7" />
-  </a>
-</p>
+---
+
+## 👨‍💻 About Me
+
+- 💼 Working as a **Senior Test Automation Engineer** at **Mercedes-Benz**  
+- ⚙️ Specializing in Java-based backend testing, API validation, and CI-integrated frameworks  
+- 🤖 Building reusable **AI agents** to automate Jira, Confluence, and CI flows  
+- 📈 Passionate about scalable automation, traceability, and developer experience  
+- 🌍 Collaborated with Mercedes-Benz, Garanti BBVA, and Turkcell  
+- 🚀 I love clean systems, clean code, and meaningful automation
 
 ---
 
-##  About Me
-
--  Working as a **Senior Test Automation Engineer** at **Mercedes-Benz**  
--  Specializing in Java-based backend testing, API validation, and CI-integrated frameworks  
--  Building reusable **AI agents** to automate Jira, Confluence, and CI flows  
--  Passionate about scalable automation, traceability, and developer experience  
--  Collaborated with Mercedes-Benz, Garanti BBVA, and Turkcell  
--  I love clean systems, clean code, and meaningful automation
-
----
-
-##  Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -32,49 +26,39 @@
 
 ---
 
-##  AI-Enhanced QA Agent Workflow
+## 🤖 AI-Enhanced QA Agent Workflow
 
-`mermaid
+```mermaid
 graph LR
     A[Jira Ticket / Repo Change] --> B{AI Agent Analyzer}
     B --> C[Auto-test Case Generation]
     B --> D[CI/CD Failure Root Cause Log]
     C --> E[Selenium/Java Framework]
     E --> F[Automated Report Back to Jira]
-`
+```
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barispe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barispe&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=barispe&theme=tokyonight&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69" />
-</p>
-
-##  Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/barispe/barispe/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
 ---
 
-##  Open Source Contributions
+## 🤝 Open Source Contributions
 
 *   **[first-contributions/first-contributions](https://github.com/firstcontributions/first-contributions)**: Added to the global contributors list.
 *   **[Roshanjossey/code-contributions](https://github.com/Roshanjossey/code-contributions)**: Created a personalized contributor card with HTML/CSS.
 
 ---
 
-##  Connect with Me
+## 📮 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/perveroglubaris/">
+  <a href="https://www.linkedin.com/in/barisperveroglu/">
     <img src="https://img.shields.io/badge/LinkedIn-Barış%20Perveroğlu-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:perveroglubaris@gmail.com">
