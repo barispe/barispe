@@ -26,6 +26,16 @@
 
 ---
 
+## 🚀 Projects
+
+- 🎭 **[cy2play](https://github.com/barispe/cy2play)** — Convert Cypress tests to Playwright using AST parsing + optional AI assistance.
+- 📚 **[awesome-qa-skills](https://github.com/barispe/awesome-qa-skills)** — Reusable QA role skills for agentic AI systems (Cursor, IDE agents).
+- 🏛️ **[QA-council](https://github.com/barispe/QA-council)** — Multi-agent QA council that debates and collaborates on testing workflows (CrewAI + SKILL.md).
+- 💡 **[idea-pipeline](https://github.com/barispe/idea-pipeline)** — Local-first Kanban board for capturing and tracking project ideas (React, TypeScript, Vite).
+- 🧪 **[CypressDemo](https://github.com/barispe/CypressDemo)** — Real-world Cypress E2E suite (50 tests) against demoqa.com & Petstore — companion for cy2play.
+
+---
+
 ## 📮 Connect with Me
 
 <p align="center">
