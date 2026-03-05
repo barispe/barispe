@@ -20,8 +20,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,js,selenium,cypress,githubactions,jenkins,docker,azure,postman,vscode,maven,postgres,mongodb,react,linux" />
+    <img src="https://skillicons.dev/icons?i=java,py,js,ts,bash,selenium,cypress,playwright,githubactions,jenkins,docker,azure,postman,vscode,maven,postgres,mongodb,react,linux" />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://cursor.com"><img src="https://img.shields.io/badge/Cursor-AI%20IDE-000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" /></a>
+  <a href="https://anthropic.com"><img src="https://img.shields.io/badge/Claude-AI%20Assistant-000?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" /></a>
 </p>
 
 ---
